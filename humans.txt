@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    alfredo fredo@gmail fredopogi
 
 # THANKS
 
