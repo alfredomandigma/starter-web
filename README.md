@@ -9,4 +9,5 @@ asdasdasdasd
 ##How To Contributee
 please report this shit
 
-copyright
+##copyright
+all rights reserved
